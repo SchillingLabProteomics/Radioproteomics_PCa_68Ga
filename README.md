@@ -20,5 +20,5 @@ Uses the results from the linear regression analysis for each covariable with th
 3_limma.R
 Uses the limma_input protein tables and performs differential statistical analysis of the protein profiles from the upper and lower tertiale of each covariable. 
 
-##Input Data
+## Input data
 All mass spectrometric raw data and analysis results are deposited in the MassIVE repository together with the relevant clinical annotation. Reviewer login credentials for MassIVE are outlined in the "Data availability" section of this manuscript. Once you are logged in, click "Browse Dataset Files". 
