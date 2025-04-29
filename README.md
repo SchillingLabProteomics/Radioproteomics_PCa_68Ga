@@ -20,7 +20,7 @@ Uses the results from the linear regression analysis for each covariable with th
 3_limma.R
 Uses the limma_input protein tables and performs differential statistical analysis of the protein profiles from the upper and lower tertiale of each covariable. 
 
-## 4. Volcano plots
+### 4. Volcano plots
 4_Volcano_plot.R
 Loads the results from differential statistial analysis for generating volcano plots with customized POI highlighted and colored.
 
